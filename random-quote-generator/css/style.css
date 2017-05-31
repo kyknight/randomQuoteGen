@@ -1,0 +1,46 @@
+
+body {
+  background: #B2FEFA !important;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0ED2F7, #B2FEFA) !important;  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0ED2F7, #B2FEFA) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header{
+  font-size: 45px;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Ubuntu Condensed';
+  color: #FF3B3F;
+  padding-bottom: 2.5%;
+}
+
+p {
+  margin-right: 20%;
+  margin-left: 20%;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  font-family: 'Shadows Into Light';
+  color: black;
+}
+.quoteBox{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  border-radius: 50px;
+  background-color: #EFEFEF;
+}
+
+.four{
+  padding-top: 2.5%;
+}
+
+.newQuote{
+  background-color: orange !important;
+  border-radius: 20px !important;
+}
+
+
+
